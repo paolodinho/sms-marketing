@@ -14,6 +14,7 @@ Cập nhật: 11/05/2026
 - [ ] Chọn 1-2 provider để hợp tác (sau khi có data reseller)
 
 ## Uu tien 2 (sau khi có research)
+- [x] Bộ nhận diện thương hiệu (màu, font, logo brief, tone) -> business/BRAND_IDENTITY.md (15/05/2026)
 - [ ] Thiết kế mô hình kinh doanh + bảng định giá -> business/mo_hinh.md
 - [ ] Concept website: cấu trúc trang, màu sắc, tone, CTA
 - [ ] Dàn ý nội dung: trang chủ, trang dịch vụ, trang giá, blog
