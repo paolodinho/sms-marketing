@@ -11,25 +11,25 @@ Hỏi tôi muốn làm task nào.
 ```
 Đọc rules/01_research.md. Research [TÊN PROVIDER / URL] theo format trong file đó.
 Thu thập đủ: giá/tin, dịch vụ, API, reseller/affiliate program, website style.
-Cập nhật vào research/RESEARCH_NhaCungCap.md (thêm vào bảng đã có, không ghi đè).
+Cập nhật vào research/research/nha_cung_cap.md (thêm vào bảng đã có, không ghi đè).
 ```
 
 ## PROMPT 2 - Cập nhật / kiểm tra lại giá
 ```
-Đọc rules/01_research.md + research/RESEARCH_GiaCa.md.
+Đọc rules/01_research.md + research/research/gia_ca.md.
 Crawl lại trang giá của [PROVIDER] - kiểm tra có thay đổi không.
 Cập nhật file, ghi rõ ngày kiểm tra và thay đổi so với lần trước.
 ```
 
 ## PROMPT 3 - Làm website / content
 ```
-Đọc rules/02_website.md + research/RESEARCH_Website_Style.md.
+Đọc rules/02_website.md + research/research/website_style.md.
 Task cụ thể: [MÔ TẢ]
 ```
 
 ## PROMPT 4 - Phân tích cơ hội kinh doanh
 ```
-Đọc rules/03_business.md + research/RESEARCH_GiaCa.md + research/RESEARCH_NhaCungCap.md.
+Đọc rules/03_business.md + research/research/gia_ca.md + research/research/nha_cung_cap.md.
 Phân tích: provider nào phù hợp nhất để làm reseller/affiliate? Lý do? Bước tiếp theo?
 ```
 
