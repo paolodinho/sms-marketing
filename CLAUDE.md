@@ -11,4 +11,4 @@ Dự án: dịch vụ trung gian/affiliate SMS Marketing tại Việt Nam. Bắt
 - Mục tiêu: làm reseller/affiliate SMS brandname cho SME Việt Nam
 - Cấu trúc: `research/` (data thị trường) | `business/` (mô hình KD) | `rules/` (quy tắc)
 - Phiên mới: xem PROMPT_BATDAU.md
-- Việc cần làm: xem TODO_NGAYMAI.md
+- Việc cần làm: xem TODO.md
